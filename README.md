@@ -1,8 +1,7 @@
-# 🎂✨ Happy Birthday Website ✨💻  
+# 🎂✨ Happy Birthday  ✨💻  
 *A Code-Powered Birthday Gesture for Someone Special*  
 
-![Preview](./output.png)  
-*Watch the full magic on [Instagram](https://www.instagram.com/reel/DG_AZoAo7P4/?igsh=bXl0MWFseXg1NG1w)*  
+
 
 ---
 
@@ -29,19 +28,12 @@ This project is my way of combining my coding skills with a heartfelt gesture. P
 - **JavaScript**: For the interactive pop-up message.  
 - **GIFs**: To add that extra festive vibe.  
 
----
-
-## 🎥 **Instagram Reel**  
-I turned this project into a reel! Check it out here: [https://www.instagram.com/reel/DG_AZoAo7P4/?igsh=bXl0MWFseXg1NG1w]  
 
 ---
 
 ## 🧑‍💻 **How to Use This Project**  
 Want to surprise your crush or someone special? Here’s how you can use this project:  
-
-1. **Clone the Repository**:  
-   ```bash
-   git clone https://github.com/your-username/Happy-Birthday-Website.git
+1. **Use HTML**:
 
 2. **Customize the Content**:  
    - Replace the text, images, and GIFs with your own.  
@@ -63,15 +55,9 @@ Got ideas to make this project even better? Open an issue or submit a pull reque
 
 ---
 
-## 📝 **License**  
-This project is open-source and available under the [MIT License](LICENSE).  
 
 ---
 
-## 💌 **Shoutout**  
-A special thanks to my crush for inspiring this project. ❤️  
-*(And to all the developers out there coding their feelings instead of confessing them. 😂)*  
 
----
 
-Made with ❤️ by [Aoudumber Bade](https://github.com/Aoudumber-Bade)  
+Made with ❤️ by [Vaibhav](https://github.com/rajvaibhav-dev)  
